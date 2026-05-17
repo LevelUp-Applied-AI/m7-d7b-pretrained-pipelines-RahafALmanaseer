@@ -4,6 +4,7 @@ Module 7 Week B — Core Skills Drill: Pre-Trained Pipelines & Metrics.
 Implement the functions below. See the drill guide for full task descriptions.
 """
 
+import os
 import re
 import string
 from collections import Counter 
